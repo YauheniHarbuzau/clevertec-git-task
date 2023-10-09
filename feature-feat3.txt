@@ -1,2 +1,3 @@
 feature-feat3 line 1
 feature-feat3 line 2
+feature-feat3 line 3
